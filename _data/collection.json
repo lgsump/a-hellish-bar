@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "A Hellish Bar" ] },
+    "summary": { "en": [ "A radio play and annotations. The intersection of education and enjoyment. " ] },
+    "items": [
+    ]
+}
