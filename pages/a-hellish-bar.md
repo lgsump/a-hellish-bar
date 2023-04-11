@@ -9,9 +9,7 @@ external_manifest_url:
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <h2><b>Character quirks and key:</b></h2>
-<br>
 <hr>
-<br>
 <h4>Bea: [Beauvoir] French, Constantly in battle with Ess.
 <br>
 Ess: [Sartre] French, Fixation on the bartender and his role to play in it all, and is constantly in battle with Bea. 
