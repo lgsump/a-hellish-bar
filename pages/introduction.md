@@ -5,7 +5,7 @@ permalink: introduction
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<center><h1><b>A HELLISH BAR</b></h1>
+<center><h1><b>A HELLISH BAR</b></h1></center>
 <hr>
 <br>
 <h4><center>A group of friends walk into a bar and suddenly realize they aren’t where they think they are, so they attempt to make sense of their reality, one-by-one. 
