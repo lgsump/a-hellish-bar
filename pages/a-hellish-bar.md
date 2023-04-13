@@ -24,6 +24,6 @@ Cee: [Camus] Speaks completely in prose, some believe he isn’t saying anything
 <br>
 Bartender: Southern, unnamed, regular, and a worker who has no idea what is going on, he is relatively quiet and just brings around drinks for the other characters. 
 <hr>
-  Side note, the voices were done by <a href="Murf.ai">Murf.ai</a>, so the tones of voices were not completely what would be desirable, so make sure to check with the script to see if there is a tone indicator. This makes The layers are labelled "Transcript" and "Commentary" to separate the different types of annotations. Also, there are some issues with timing regarding the transcript, and those are things that are still being developed in the AudiAnnotate program itself, but the time should be relatively close.
+  Side note, the voices were done by <a href="Murf.ai">Murf.ai</a>, so the tones of voices were not completely what would be desirable, so make sure to check with the script to see if there is a tone indicator. The layers are labelled "Transcript" and <font color="green">"Commentary"</font>, in green, to separate the different types of annotations. Also, there are some issues with timing regarding the transcript, and those are things that are still being developed in the AudiAnnotate program itself, but the time should be relatively close. If you would like to look at the transcript by itself or the commentary by itself, go to the Index tab and click on the respective title. 
   <hr>
 
