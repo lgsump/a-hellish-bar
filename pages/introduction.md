@@ -37,7 +37,6 @@ Convey the practical usefulness of existentialism in the everyday lives of your 
   <br>
   <br>
   Do this in an appealing (and ideally witty) way, so that it would serve well as a means of popularizing existentialism.
-It is a satire
   <br>
   <br>
 <blockquote>It is satire and a radio play, meant to be a literary thing, but also put and annotated on AudiAnnotate, making it able for the little choices to be analyzed and explained so that the messages hit home. </blockquote>
