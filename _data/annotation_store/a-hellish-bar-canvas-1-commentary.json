@@ -1,0 +1,1928 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/a-hellish-bar/annotations/a-hellish-bar-canvas-1-commentary.json",
+  "type": "AnnotationPage",
+  "label": "Commentary",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The start of the joke in this play is that it is a satire of the common structure of the \"X and Y walk into a bar\", and with this example, it is the existentialists that walk into a bar. So, there is an implication that something about how they act within a bar will be explicative of them as people or their work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">As we start off, the role of Bea, or Simone de Beauvoir, was used as the fluidity between all the characters. For us, we used Bea to alleviate the seriousness of the discussion due to her criticism of the serious person in her work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "17.2,18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we see more of a personal understanding of Enne, or Nietzsche, as they tend to represent more of the depressing views of existentialism, as well as a personification of his popularized nihilism.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "27.12,28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here is where we see a bit of difference between the screenplay and the recording itself, as we stated before: there is some malfunction and difference between the two because of the inaccuracy of the voice software.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.4,29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">As you can see in the annotation above, the screenplay has accents for some of the characters to further exhibit their likeness to the people they were based off as well as to affiliate or imply that the ones with similar accents might know each other (in Bea, Ess, and Cee's case), but obviously through the voice software the accents weren't too possible.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.1,34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Further, the reason we chose Cee to speak in prose is because Camus in his work doesn't spell out what he thinks like the others, though some of them do entertain art as a way of communicating their ideas (like Sartre), rather, he uses the literary to hint at these existential issues. Each of his lines in the play are quotes from Camus himself.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.12,34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Above, you can see another pointing to the criticism that Beauvoir had against seriousness. There is also a hint to Bea and Ess (Beauvoir and Sartre) to be old friends because they were in fact <i>old friends</i>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "41,42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we see, too, that Cee and Ess do know each other, like Camus and Sartre did.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53,54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">We decided heavily to characterize Haytch, or Heidegger, as old and German because that is ultimately how we both read him, especially in his connection to the Nazi party. So, to our own bias, there is a level of lacking emotion that we see in his character.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "61.2,62"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">For the Bartender, we made server decisions that we believed highlighted important aspects of the project. Firstly, we made the Bartender the waiter/customer service rep, to signify some of the tension that we see in Sartre's criticism of the waiter. Secondly, we wanted someone to represent how ordinary people who weren't academically involved in Existentialism could get into it. Lastly, we made him Southern, through his use of y'all (too much of the voice software's failure) in order to connect it to those watching, considering it would be more connective to a place like UT.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "64.1,65"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">We chose coffee for Kay, or Kierkegaard, because of one, the knowledge that he was religious, but two, because we did some light googling and found out he had a somewhat addictive attitude for coffee.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69,70"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">One of our big criticisms of how we characterize Beauvoir is that we ultimately only really highlight her criticism of seriousness, especially for the need of someone to move along these seemingly immobile philosophers, as well with the fact that we had, once we had made the play itself, read much less of her compared to the others.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "71.2,72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here is where we try to show that Enne, though usually in his lack-of-caring mode, still has motivation, and first finds it, through the criticism of Kay. This unfolds an implication that he has something personal against Kay, not that it was completely hateful for Nietzsche. For example, we do see places where they agree with how they view the modern understanding of Christianity.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "75.2,76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Having Kay think of Enne as a demon is something we chose because we believed that through Nietzsche's understanding of the world and rejection of God, Kierkegaard would have thought him as a man who chose to live in this despair even when knowing a lot of the foundational truths.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "85.2,86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here is just a way for audiences to understand that their relationship isn't the same as Sartre and Beauvoir because they actually lived in different places at different times. So, we chose to play it off like some cross-world academic rivalry.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "92.2,93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The annotation above highlights how in both Nietzsche's and Kiekegaard's life, they were considered highly depressed and anxious. This is evident through what we've seen in class about Kierkegaard through his calling-off of the wedding with a girl because he thought he would make her miserable.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99.1,100"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">This was also found through some light google searching.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "101.1,102"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The annotation above is where we start to highlight some of Sartre's ideology of the mirror image. This idea being that we are able to see ourselves through other people. This starts the dialogue and tension we see, highlighting the fact that a lot of Sartre's work was in response to Heidegger.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "103.2,104"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Haytch, or Heidegger, is here stating a large introduction to some of his idea of \"the They\" and how we can fall into this through absorbing too much of other people. We also chose the framework of what is about to happen in relationship to Heidegger's idea of being thrown into the world.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "111,112"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here is where we get the gist of what Sartre is extending and how he rejects Heidegger's idea of the role of other people to our understanding of our Self. He believes that through the reflection that we get from other people, and our objectification of them, we are then able to grasp parts of ourselves, and if they truly reflect who we truly are, then we will be happy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "114.4,115"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">After some research on more of the personable aspects of Sartre and Beauvoir, we came to the decision to make them the troublemakers(ish) because we also saw that they had a lot of fun partying, and even partaking, at least in Sartre's case, some psychedelics.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "123.2,124"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here is another example of something that we envisioned when creating the screenplay, but wasn't ultimately possible because we didn't have actors, experience on filming, etc.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "136.3,137"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">We chose the two above annotations/lines in the script to indicate that Kierkegaard and Enne had a lot in common, much to their differences and love for their difference.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140.1,141"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Again, with Cee, or Camus, speaking in prose from his novels, we see here a quote from <i>The Fall</i>. The ways in which we utilize Camus in this story is one, mainly, as comedic relief, but also two, in a way to represent and much to his liking, probably, the absurdity of the play. His reaction to real life, like the event that is about to happen, is full of ways you wouldn't expect a human to react.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "147,148"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Because we wanted to highlight the role of the worker in the play, we also based this character on how we, as service workers, experience customers like this. Even when their stories and experiences are full and complete in their eyes, there is a large, default reaction that we have, and no matter what nonsense goes on at the beginning of a sentence, as soon as we hear the last words in order for us to perform our job, we are jolting off to do it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "152.2,153"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Like we've mentioned earlier, here is where we get into Sartre's tension with the \"waitor\" or in our play, Bartender. His central ideas being that you have to recognize your freedom within your role, and that your role doesn't define you, so sometimes you can, and should, do things outside of your role such as fulfilling his need to find out why people aren't at the restaurant.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "155.2,156"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">We chose this line specifically because it not only allows Sartre to go in the direction that he wanted, but it also made enough room for us, as servers who could be in this situation, to still reject it. To explain, we might put on a role that feels like we are limiting our freedom, but in reality, we are almost always lying or playing to that in order to grant our freedom. Say, we don't want to go and wash a dish, but our role also indicates that doing a specific step to wash the dish would be out of our role. So, we might say, well we can't get the customer that dish because it is out of our role, and Sartre might think that we are limiting or not recognizing our freedom, when we are actually exhibiting it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "168.2,169"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The annotation above more represents Sartre's personable love for outdoor patios, along with Beauvoir. An example of how we attempt not only to explain what we get from their texts, but also how we read the authors as people.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "179.1,180"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The annotation above highlights, again, Heidegger's belief that the biggest danger to our being is falling to the They.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "179.23,180"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we criticize our word choice because we understand that \"discussion\" can be vague, but we were attempting to tie the conversation back to the conference that they had all just come from, and it is further extended in the later lines, but the shift wasn't too obvious. This also points to the disagreement that we think Heidegger would've had with Sartre in the sense that Sartre starts the subject-object problem by assuming \"the look\" as evidence for other people's existence.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "199.1,200"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Above, we see, to some irony, how I think Sartre might've reacted to that question. Though his understanding of \"the look\" is relevant, and his belief that the appearance and reality of how other people's presence, or absence, does act as phenomenal truth, we chose to tie in more of his argument on profession and the inability for Heidegger to let go of his academic side.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "205.1,206"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Again, to our largest criticism, of tying Beauvoir merely to her criticism of seriousness and as comedic relief.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "216.1,217"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The statement above about the Bartender's real name also was an attempt to tie in how Sartre wanted the waiter in his story to distance his understanding of himself from his role.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "218.2,219"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">This is how we would respond, as service workers, to even some of the most truthful or interesting commentary someone could have. We left this open to interpretation, either as further criticism that even for \"ordinary people\" like the Bartender is supposed to represent will overlook the power of self-understanding in our lives when being introduced to ideas of existentialism, or it could be a further way of the Bartender simply rejecting or being spiteful to the attempt of Ess and the group of friends in feeling as if they are providing some divine insight or knowledge about how we truly understand ourselves. In a way, we see his role as calling out the role of ego in academics and philosophers in general.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "228.2,229"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The void sounds being from Minecraft nether portals.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "233.1,234"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The annotation above is an example of how we would've wanted things to sound in the radio play if we had more time or resources, which is further evidence for why we wanted to include the original screenplay in order to compare it with the radio sound, but also deciding to go through with the radio play in order for the project to be more interactive.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "233.23,234"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The role of the void in the play is a large turning point. Firstly, it allows for more discussion of how to realize their role, as well as tying in ideas of how many of the existentialists believe we are to interpret why we are where we are. For Heidegger, being thrown into the world. For Sartre, being abandoned, etc.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "241,242"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here, we chose Camus to be the first to speak because we thought not only would his poetry be absurd in itself after experiencing a life-altering one such as finding a void at a bar, but also because his quote highlights the role of the absurd in this situation as well.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "250,251"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here is an example of something we didn't really want to add, but there felt like no good person to include considering the role each of them brought. Ultimately, Camus and Sartre had a relatively good relationship, though it went out towards the end, but in many instances Sartre had a lot of good things to say about Camus' literature. However, we needed someone to address the \"absurdity\" of responding to the void with poetry, and we have used Sartre and Beauvoir as the glue of the story, so it just happened that Sartre fell victim to it this time. Though, in retrospect, we can attribute/characterize it to their falling out.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "259.2,260"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The line above renders the Bartender again, even in our understanding of him (which we constructed through ourselves), as simply a utility of his role. He understands the store, so of course his line will be looking for logistic ways to solve the problem. In this way, we do think that Sartre might have had a larger point than we had once thought, in that in our playing of the role, whether we at the end of the day knew it was a role or not, we would still limit our action and possibilities for freedom.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "264.2,265"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">This is where we would like to make it obvious that we did not construct the play because we thought the play would be good, and this line alone is quite awful. However, we used it in some sense to change the pace and focus of the scene to the qualities of the void, but also used the obvious \"skin-like\" description to represent both Heidegger's view of the worst way to view ourselves as other people, but also to represent his close relationship with racist and antisemitic views.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "275.2,276"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">With Sartre above, we wanted to hit home how we was viewing the void again through the idea of people, like Heidegger, and maybe we hinted that he only saw the void as skin or like Heidegger because he heard Heidegger speak about it first, but also hitting his idea that it could be more reflective of our motives like we saw with his existential psychoanalysis.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.2,296"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The distinction both above and below this annotation represent that we wanted the void to be indescribable, to represent that in a lot of the texts and philosophies we read with different authors sometimes felt as if they were discussing completely different objects. In some cases they were aware of that themselves, but we wanted to make this claim or hint at a claim to raise the question about how existence in general is a topic that can arise from a lot of different starting points, just like we see in the problem of other minds in Sartre and Heidegger.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "285.2,286"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">In Bea's line we wanted to attach it to Beauvoir's concept of ambiguity and how she doesn't support the idea of making too harsh a claim about general aspects of things. In her example, she was speaking on general principles of human existence, but we attached this to the void because again, we wanted to reiterate that they were all not seeming to understand the void in the same way.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "285.3,286"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we had more of a desire to include more Nietzsche, but also to add to his seeming dislike of humanism in existentialism.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "299.2,300"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here is a very unsubtle insertion of how Nietzsche views morality as a historical reflection, adding to how he parts from Kierkegaard. Whether Sartre or Beauvoir would disagree with this is less obvious to us, but nonetheless, when in arguments with large groups of people, they can easily take shifts before you can respond to everything, which is why we then let Kay, or Kierkegaard, interrupt the conversation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "322.2,323"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Again, a shameful transition to including Heidegger's view on idle talk in his discussion of inauthentic ways of understanding self, and more so in his understanding of idle talk, death. We thought it was <i>sort of</i> relevant to include it because the situation was in some ways around the ideas and concepts of death, and Heidegger would've definitely thought it inauthentic to not recognize the reality that death was happening, so maybe he would've considered these conversations as idIe talk because of that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "333.2,334"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">As we see with the Bartender's lines above, we in retrospect are growing very concerned for how little we used this character beyond its initial and final actions. Not only concerning due to its lack of development and complexity, but lack of hinting at the complexities that we were attempting to show in the beginning.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "356.1,357"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">This was an attempt at categorizing Kierkegaard's understanding of faith as blind, with the support of the story of Abraham as its motivation. The reading of Kierkegaard as being optimistic and reaching when associating his idea of the \"leap\" as being necessary due to his inability to trust the ethical and aesthetic lives.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "358.2,359"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">An extension on the earlier commentary, here we see an explanation that because he can't justify to or not to do it through external reasoning, he must trust in and have faith in God, with his abstract and acausal interaction with the ethical. This is meant to specifically symbolize his \"leap\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "362.1,363"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The line above was mainly used as comedic relief, on the common idea that Heidegger loves to just make terms up and use a lot of hyphens, though that might be more of an English translation issue rather than his.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "381,382"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">In the recording, it is also a bit harder to realize that Kay and Haytch jump into the void, though we are unsure of what happens to them or exactly how they came to those decisions. This line also attempts to hint at some clarification that his belief in how we find our authentic understanding of self is through the rejection of the They, or in the plays case, the rejection of who he is around his friends (a bit depressing).",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "397.2,398"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Further extending on the argument that Sartre had in his response to Heidegger, especially through his difference in treating the social and Heidegger's the They as necessary and natural for us to find our true selves.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "421.2,422"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The quote above, again from Camus, ties together how we viewed both Camus and Beauvoir in our readings of them. As we see below in Beauvoir's line, a lot of her emphasis was on the uniqueness of the human experience and the reality of ambiguity, though she was much more concerned with that in regards to morality. We also used Camus' quote above to signify how through his vagueness in the literature and prose, he sometimes comes off as pleasing everyone or not making too clear of a claim, though in this specific instance we reject that claim because he is obviously rejecting Ess' claim and making a point himself.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "427.2,428"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we gathered some vague relevance that Nietzsche brings up about subjectivity and its role in the world and in philosophy to then connect it to his idea of control and \"Will to Power\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "442.2,445"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Again, above, connected Beauvoir to her criticism of people making too many claims about human nature. Though, it may be interesting to reveal how much in her discussion of human nature we need to be less general in regards to ethics, which is something that Nietzsche would agree on due to his understanding of the moral as a historical reflection.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "463.2,464"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we might've made much too serious a claim and rejection that we thought Sartre might take up against Nietzsche with his emphasis that we need to stop categorizing our choices to nature, and take responsibility for them. This being due to his historical understanding and what he sees going on around Europe after WWII, considering people do not want to take responsibility for the atrocities they committed. Nietzsche also believes something much closer to determinism than Sartre would ever be comfortable with, which is why we chose this topic also to be of importance.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "465.2,466"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">With Camus' quote on the meaning of life we both emphasize his importance on living and doing rather than reflection. We see this with his characterization of Mersault in <i>The Stranger</i>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "479.2,480"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">My favorite transition of the play, again switching to how the Bartender, even in the absurdity of his entire world being possibly gone, still assumes his role and brings the drinks to the table.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "502.2,503"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">As we see through their tension throughout the play, this is where we attempt to point as the climax of their struggle, and where we transition to the last part and ending of the play.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "506.2,507"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we get into how he recognizes his facticity, but in Sartre's terms, he doesn't recognize his transcendence.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "521.2,522"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Here we attempt to recognize some difference that we see in Sartre and Beauvoir, and we do this by saying that she would make it important and emphasize the need to at least recognize your freedom in the situation. Also, once again, either to fault or quirk, we establish her criticism of seriousness in order to add comedic relief, again adding to the historic and personable relationship and friendly conflict she had with Sartre.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "546.2,547"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">I believe there was a malfunction or error in the voice software, as it should be the voice of the Bartender that says this, but I think it is in the voice of a different character.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "568.2,569"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "a-hellish-bar-canvas-1-commentary-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">This last line and abrupt ending to the play gives us a lot to say. Firstly, it was important to us that the Bartender is the one that <i>truly</i> recognizes the facticity in the sense that he recognized himself as being withing a play. So, we thought this best exemplified Sartre's understanding of the paradox of how facticity is what brings about freedom in the sense that his <i>true</i> understanding of his situation then allowed him to make the ultimate, <i>free</i> decision to leave the play. It also makes many commentaries about what Sartre was on when discussing the idea of role, as not only was he playing a role as the Bartender in the bar, but he was playing the literal role of Bartender in the play. So, by truly recognizing himself beyond his role in the play, there were also parallels to him truly accepting it in that sense as well.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Commentary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "576.2,577"
+        }
+      }
+    }
+  ]
+}

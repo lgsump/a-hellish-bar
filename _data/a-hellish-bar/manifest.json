@@ -23,6 +23,24 @@
         "id": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/canvas",
         "type": "Canvas",
         "duration": 578,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/a-hellish-bar/annotations/a-hellish-bar-canvas-1-commentary.json",
+            "label": {
+              "none": ["Commentary"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/a-hellish-bar/annotations/a-hellish-bar-canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/a-hellish-bar/a-hellish-bar/canvas-1/paintings",
