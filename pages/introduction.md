@@ -27,23 +27,23 @@ Because the radio play was made without too much consideration about the specifi
 <h4>Seriously engage with the philosophies of Kierkegaard, Nietzsche, Heidegger, Sartre, Beauvoir, and Camus. 
   <br>
   <br>
-<blockquote>Uses them as characters, both using their philosophies and our interpretations of them as people.</blockquote>
+<blockquote>We not only use each character in the play as a representation of each of the philosophers, but we also attempt to use the setting and plot of the play to analyze <b>our</b> reading of them as well.</blockquote>
   <br>
   <br>
 Convey the practical usefulness of existentialism in the everyday lives of your audience.
   <br>
   <br>
-<blockquote>Making fun of the common idea that existentialism isn’t exactly helpful to anyone, especially considering all of the characters in the play die, with the turnaround of the bartender showing us how we take them and continue to live. </blockquote>
+<blockquote>Making fun of the common idea that existentialism isn’t exactly helpful to anyone, especially considering all of the characters in the play die, with the turnaround of the bartender showing us how we take them and continue to live. Because it is a satire and art itself, there is a lot of vagueness that allows the viewer to make some of their own decisions about intent of characters or ramifications of choices they make, but we attempt to clarify our perspective on it through the green annotations.</blockquote>
   <br>
   <br>
   Do this in an appealing (and ideally witty) way, so that it would serve well as a means of popularizing existentialism.
   <br>
   <br>
-<blockquote>It is satire and a radio play, meant to be a literary thing, but also put and annotated on AudiAnnotate, making it able for the little choices to be analyzed and explained so that the messages hit home. </blockquote>
+<blockquote>It is satire and a radio play. Written at first as a screenplay with visual elements, we decided to make it a radio play due to the inaccessibility of resources to make a film or recording of a play. So with the radio play, we decided to focus on the conversation between the characters and use the imagination of the audience to create as authentic an experience as possible. However, we also put and annotated the play on AudiAnnotate (what you see as the green on the next page), making it able for the subtle choices of our play to be analyzed and explained in an effective way. So, it is both creative through the writing of the play (which is what would hopefully make it popularized) as well as educational through making it fun for students to analyze it.</blockquote>
 <br>
   <br>
   <hr>
 <h3><b>Description of the radio play:</b>
   <br>
   <br>
-Characters Bea, Ess, Enne, Kay, Haytch, and Cee walk into a bar. It is meant to be set up as the common idea of “So X and Y walk into a bar” set-up as a type of joke. The problem they face is that they thought they entered a bar, but when they realized something was wrong and attempted to leave, they saw an indescribable void. So, it is up to all of them and the bartender to make sense of this and figure out what they should do. 
+Characters Bea, Ess, Enne, Kay, Haytch, and Cee walk into a bar. It is meant to be a satire of the common structure of “So X and Y walk into a bar” set-up as a type of joke. The problem they face is that they thought they entered a bar, but when they realized something was wrong and attempted to leave, they saw an indescribable void. So, it is up to all of them and the bartender to make sense of this and figure out what they should do. 
