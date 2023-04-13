@@ -44,7 +44,7 @@ It is a satire
 <br>
   <br>
   <hr>
-<h3><b>Description of the radio play:<b>
+<h3><b>Description of the radio play:</b>
   <br>
   <br>
 Characters Bea, Ess, Enne, Kay, Haytch, and Cee walk into a bar. It is meant to be set up as the common idea of “So X and Y walk into a bar” set-up as a type of joke. The problem they face is that they thought they entered a bar, but when they realized something was wrong and attempted to leave, they saw an indescribable void. So, it is up to all of them and the bartender to make sense of this and figure out what they should do. 
