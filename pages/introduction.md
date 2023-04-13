@@ -40,7 +40,7 @@ Convey the practical usefulness of existentialism in the everyday lives of your 
 It is a satire
   <br>
   <br>
-<blockquote>A radio play, meant to be a literary thing, but also put and annotated on AudiAnnotate, making it able for the little choices to be analyzed and explained so that the messages hit home. </blockquote>
+<blockquote>It is satire and a radio play, meant to be a literary thing, but also put and annotated on AudiAnnotate, making it able for the little choices to be analyzed and explained so that the messages hit home. </blockquote>
 <br>
   <br>
   <hr>
