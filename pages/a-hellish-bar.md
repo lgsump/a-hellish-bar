@@ -10,7 +10,7 @@ external_manifest_url:
 using HTML or markdown.  Do not modify this file above this line -->
 <h2><b>Character quirks and key:</b></h2>
 <hr>
-<h4> This is key is used to set a tone for the characters due to the lack of ability to show emotion in the recording. These are also personable ways in which we read each of the philosophers, not necessarily how they really were. 
+<h4> This key is used to set a tone for the characters due to the lack of ability to show emotion in the recording. These are also personable ways in which we read each of the philosophers, not necessarily how they really were. 
   <hr>
 <h4>Bea: [Beauvoir] Comedic relief, glue to transitions, and constantly in friendly battle with Ess.  
 <br>
