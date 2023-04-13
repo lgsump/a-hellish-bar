@@ -23,7 +23,7 @@ There are multiple components of the project. Firstly, this website and page is 
 Because the radio play was made without too much consideration about the specific choices, as well as the fact that we learned more after having finished it, we thought doing this opposed to just turning in the radio play would provide us a chance to criticize some of our choices, as well as making the experience more educational. So, some of the annotations will be the transcript of the screenplay written for it, and some of the annotations will be commentary about our choices.
   <hr>
  <b>Project outlines to the prompt:</b>
-  <hr>>
+  <hr>
 <h4>Seriously engage with the philosophies of Kierkegaard, Nietzsche, Heidegger, Sartre, Beauvoir, and Camus. 
   <br>
   <br>
