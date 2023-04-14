@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/a-hellish-bar/annotations/a-hellish-bar-canvas-1-commentary.json",
-            "label": {
-              "none": ["Commentary"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/a-hellish-bar/annotations/a-hellish-bar-canvas-1-transcript.json",
             "label": {
               "none": ["Transcript"]
